@@ -1,5 +1,5 @@
 #include <gtk/gtk.h>
-
+#include <SDL2/SDL.h>
 static void
 print_hello (GtkWidget *widget,
              gpointer   data)
